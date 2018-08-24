@@ -10,4 +10,5 @@ hw5: Created and visualized a whole simplified binomial tree using either functi
 hw6: Created and visualized JR, CRR trees using either functions and sub. Also compared how the values of abovementioned trees converge towards the black-scholes value as the steps in trees gets larger.   
 hw7: Created and visualized trinomial tree, and calculated and compared the tree values to black scholes.  
 hw8: Used Monte Carlo method to simlulate share price, also used exponential normal to perform monte carlo integration.  
-hw9:
+hw9: Performed normsinv and box muller on halton sequence and original rand() sequence to create random distributions, also visualized for more comparisons.  
+hw10:
