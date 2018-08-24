@@ -9,4 +9,5 @@ hw4: Created function to calculated chooser options, and graphed bull/bear sprea
 hw5: Created and visualized a whole simplified binomial tree using either functions and sub.  
 hw6: Created and visualized JR, CRR trees using either functions and sub. Also compared how the values of abovementioned trees converge towards the black-scholes value as the steps in trees gets larger.   
 hw7: Created and visualized trinomial tree, and calculated and compared the tree values to black scholes.  
-hw8:
+hw8: Used Monte Carlo method to simlulate share price, also used exponential normal to perform monte carlo integration.  
+hw9:
