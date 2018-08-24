@@ -11,4 +11,5 @@ hw6: Created and visualized JR, CRR trees using either functions and sub. Also c
 hw7: Created and visualized trinomial tree, and calculated and compared the tree values to black scholes.  
 hw8: Used Monte Carlo method to simlulate share price, also used exponential normal to perform monte carlo integration.  
 hw9: Performed normsinv and box muller on halton sequence and original rand() sequence to create random distributions, also visualized for more comparisons.  
-hw10:
+hw10: Familiarized with random functions and how they work.  
+hw11:
